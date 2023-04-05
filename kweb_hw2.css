@@ -1,0 +1,17 @@
+.question{
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#name1{
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+#name2{
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+
+    font-weight: bold;
+}
